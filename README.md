@@ -1,7 +1,7 @@
 # 🏨 Hotel Reservation System  
 
 ## 📌 Project Description
-A group project for my data structere module: 
+A group project for my data structere module:. 
 A simple yet efficient **Hotel Reservation System** built using **C++** and data structures. This system allows users to **book rooms, check availability, and manage reservations efficiently**.
 
 
