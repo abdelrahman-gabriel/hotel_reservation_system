@@ -13,7 +13,7 @@ This is a **group project** developed for a **university course on Data Structur
 ## 🛠️ Technologies Used  
 - **Programming Language:** C++  
 - **Data Structures:** Linked Lists, Arrays  
-- **IDE:** Visual Studio Code  
+- **IDE:** Visual Studio  
 
 ## 📂 Project Structure 
 ```
