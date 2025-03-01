@@ -12,7 +12,6 @@ void displayallRoomsAndReservations()
 {
     reservations.print();
 }
-// AHMED MAHMOUD 
 //displaying all rooms
 
 void displayAllRooms()
@@ -56,7 +55,7 @@ void ReservationRoomhistory()
         cout << finder;
 }
 
-// ABDELRAHMAN MOHAMMED
+
 // display all guests
 
 void displayallguests()
@@ -126,7 +125,7 @@ void guestReservationHistory()
     }
     
 }
-//MOHAMMED HELMY
+
 //update reservation period
 void updateReservationPeriod(orderedLinkedList<reservation>& reservations, int reservationNumber, const string& newPeriod)
 {
@@ -197,7 +196,7 @@ void updateRoomRating(int roomNumber, double newRating)
         cout << "Room not found. Unable to update rating.\n";
     }
 }
-//YOUSEF MAHMOUD
+
 //insert guest
 void insertGuest(orderedLinkedList<guest>& guestList) {
     string name, phone_no;
